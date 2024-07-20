@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My reminders</string>
+    <string name="set_alarm">Встановити нагадування</string>
+    <string name="delete_alarm">Видалити</string>
+    <string name="alarm_notification_title">Повідомлення про нагадування</string>
+    <string name="alarm_notification_message">Повідомлення нагадування</string>
+    <string name="alarm">Нагадування</string>
+    <string name="edit">Редагувати</string>
+    <string name="cancel">Скасувати</string>
+    <string name="save">Зберегти</string>
+    <string name="no_date_set">Дата не встановлена</string>
+    <string name="enter_text">Введіть текст нагадування</string>
+    <string name="ok">Добре</string>
+    <string name="initial_reminder">Найкращий спосіб передбачити майбутнє - створити його.</string>
+</resources>

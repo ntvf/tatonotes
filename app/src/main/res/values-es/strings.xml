@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My reminders</string>
+    <string name="set_alarm">Establecer Alarma</string>
+    <string name="delete_alarm">Eliminar</string>
+    <string name="alarm_notification_title">Notificación de Alarma</string>
+    <string name="alarm_notification_message">Mensaje de Alarma</string>
+    <string name="alarm">Alarma</string>
+    <string name="edit">Editar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="save">Guardar</string>
+    <string name="no_date_set">Fecha no establecida</string>
+    <string name="enter_text">Ingrese el texto del recordatorio</string>
+    <string name="ok">Aceptar</string>
+    <string name="initial_reminder">La mejor manera de predecir el futuro es crearlo.</string>
+</resources>

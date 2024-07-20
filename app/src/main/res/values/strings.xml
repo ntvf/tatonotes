@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My reminders</string>
+    <string name="set_alarm">Set Alarm</string>
+    <string name="delete_alarm">Delete Alarm</string>
+    <string name="alarm_notification_title">Alarm Notification</string>
+    <string name="alarm_notification_message">Alarm Message</string>
+    <string name="alarm">Alarm</string>
+    <string name="edit">Edit</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="enter_text">Enter text of reminder</string>
+    <string name="no_date_set">No Date set</string>
+    <string name="ok">OK</string>
+    <string name="initial_reminder">The best way to predict the future is to create it.</string>
+</resources>
